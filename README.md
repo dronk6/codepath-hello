@@ -1,13 +1,12 @@
-#README.md
 ## HelloDrew
 
 ### App Description
 This app presents a message to the user, has the background color adjusted, and allows the user to press a button which changes the text color.
 
 ### App Walk-though
-https://recordit.co/FJvtkniRSK
 
-<img src="https://recordit.co/FJvtkniRSK" width=200><br>
+
+<img src= "http://g.recordit.co/clszlGXXLy.gif" width=400><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
